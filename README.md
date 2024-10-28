@@ -1,6 +1,3 @@
-Certainly! Here's a revised README structure that follows your suggested sections:
-
----
 
 # HR Analytics Dashboard - Power BI Project
 
